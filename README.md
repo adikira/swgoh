@@ -18,7 +18,7 @@
 3.  Go to Store.
 4.  Go to purchase Bronzium Data cards with Ally points.
 5.  Launch swgoh.ahk.
-6.  Take coffee break, a nap or whatever and come back when all the Ally points have been converted.
+6.  Take a coffee break, a nap or whatever and come back when all the Ally points have been converted.
 7.  Press Ctrl+Shift+Alt+S to stop the script (the key combination can be customized in the swgoh.ahk script).
 
 # Notes
