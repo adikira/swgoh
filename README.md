@@ -33,4 +33,8 @@ Converting Ally points gives you:
     -   Occasionally you may get valuable gear (for example purple gear).
     -   The gear you get and don't need can be used for relics.
 
-*WARNING! Use it at your own risk! Absolutely no warranties made! I'm not responsible for any loss you might incur from using the software provided here.*
+# WARNING!
+Use this software at your own risk! There are absolutely no warranties made! I'm not responsible for any loss you might incur from using the software provided here.*
+
+# Contact
+You can contact me on discord at *adikira#0131*
