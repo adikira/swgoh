@@ -1,6 +1,6 @@
 # One time setup
-1.  Install NOX on your PC.
-2.  Install SWGOH in the NOX instance.
+1.  Install NOX on your PC from https://noxofficial.com/.
+2.  Install SWGOH in the NOX instance (from the Google Play Store).
 3.  Launch SWGOH.
 4.  Go to Store.
 5.  Go to purchase Bronzium Data cards with Ally points.
