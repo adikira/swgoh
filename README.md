@@ -3,8 +3,8 @@
 2.  Install SWGOH in the NOX instance (from the Google Play Store).
 3.  Launch SWGOH.
 4.  Go to Store.
-5.  Go to purchase Bronzium Data cards with Ally points.
-6.  Overlay a key, **Q**, over the button to buy
+5.  Go to purchase Bronzium Data Cards with Ally points.
+6.  Overlay a key, **Q**, over the button to buy Bronzium Data Cards (there is an icon on the left of the NOX screen that lets you click a point on the screen and a assign a key to it so that when you press that key NOX will generate a mouse click in that point).
     -   It needs to be *Q* to match what's in the AHK script, else you need to change in both places.
     -   Place the *Q* in the center of the button (it needs to fall on the *Continue* button when you get a shard). If it gets stuck on *Continue* and doesn't progress then you need to reposition the *Q*.
 7.  Install AHK (auto hot key) from <https://www.autohotkey.com/>.
