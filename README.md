@@ -16,7 +16,7 @@
 1.  Launch NOX.
 2.  Launch SWGOH in the NOX instance.
 3.  Go to Store.
-4.  Go to purchase Bronzium Data cards with Ally points.
+4.  Go to purchase Bronzium Data cards with Ally points ("enter" there so that it's ready to "buy").
 5.  Launch swgoh.ahk.
 6.  Take a coffee break, a nap or whatever and come back when all the Ally points have been converted.
 7.  Press Ctrl+Shift+Alt+S to stop the script (the key combination can be customized in the swgoh.ahk script).
